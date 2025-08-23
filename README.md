@@ -1,3 +1,5 @@
+**このリポジトリは新しい場所に移行しました。新しいリポジトリはこちらです 👉 [Kishax/kishax](https://github.com/Kishax/kishax)**
+
 # gather-slack-bot
 
 ## Env
