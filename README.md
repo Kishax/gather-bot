@@ -1,4 +1,4 @@
-# gather-slack-bot
+# gather-bot
 
 ## QuickStart
 ```bash
