@@ -1,8 +1,5 @@
 # gather-bot
 
-## Note
-This is also used by [Kishax/infrastructure](https://github.com/Kishax/infrastructure).
-
 ## QuickStart
 ```bash
 cp .env.example .env
